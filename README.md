@@ -106,8 +106,11 @@ This app can be deployed to any static hosting platform such as Vercel, Netlify,
 
 Existing Customer (Email/Password):
 
-Email: existing@cruise0-demo.com  
-Password: provided separately  
+Email: shokemyster@gmail.com
+Password: provided separately
+
+Email: hi.shoki@gmail.com
+Password: provided separately
 
 Google Login:
 
